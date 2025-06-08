@@ -1,0 +1,6 @@
+checkpoints/*
+*.bmp
+logs
+*pyc
+*.ipynb_checkpoints
+train_images.pkl
