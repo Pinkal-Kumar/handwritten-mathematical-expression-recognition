@@ -25,7 +25,7 @@ Below are sample images from the CROHME dataset with their corresponding LaTeX l
 - **Description:** Equation of a circle
 
 **Sample 2:**
-![Sample 2](assets\75_david_0.png)
+![Sample 2](assets/75_david_0.png)
 - **Label:** `c^2 = a^2 + b^2 - 2ab \cos C`
 - **Description:** Addition of fractions
 
