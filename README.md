@@ -20,13 +20,13 @@ The HME100K dataset is another comprehensive dataset for handwritten mathematica
 Below are sample images from the CROHME dataset with their corresponding LaTeX labels:
 
 **Sample 1:**
-![Sample 1](path/to/sample1.png)
-- **Label:** `x^2 + y^2 = r^2`
+![Sample 1](assets/70_carlos_0.png)
+- **Label:** `\cos(\theta) = \frac{x}{\sqrt{x^2 + y^2}}`
 - **Description:** Equation of a circle
 
 **Sample 2:**
-![Sample 2](path/to/sample2.png)
-- **Label:** `\frac{a}{b} + \frac{c}{d} = \frac{ad + bc}{bd}`
+![Sample 2](assets\75_david_0.png)
+- **Label:** `c^2 = a^2 + b^2 - 2ab \cos C`
 - **Description:** Addition of fractions
 
 
